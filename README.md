@@ -10,6 +10,6 @@
 * ```python test.py```
 # Subscribe my Telegram Channel
 
-<a href="https://t.me/hzm_hacker">
+<a href="https://t.me/hzm_hacker2">
   <img src="https://img.shields.io/badge/Telegram-Subscribe-blue?style=for-the-badge&logo=telegram" alt="Подписаться на Telegram-канал">
 </a>
